@@ -11,10 +11,10 @@ All *pandigital* numbers.
 For N going from 1 to 9, if the currently checked PDN, cut at the Nth digit, divides the Nh digit (no remainder), the PDN is considered passed the test.
 
 **Example:**
-123648759 is divisible by 9 (result: 13738751)
-12364875 is divisible by 5 (result: 2472975)
-1236487 is divisible by 7 (result: 176641)
-123648 is divisible by 8 (result: 15456)
+- 123648759 is divisible by 9 (result: 13738751)
+- 12364875 is divisible by 5 (result: 2472975)
+- 1236487 is divisible by 7 (result: 176641)
+- 123648 is divisible by 8 (result: 15456)
 etc.
 
 **Note:**
