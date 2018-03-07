@@ -8,7 +8,7 @@ All *pandigital* numbers.
 'Pandigital' numbers (**PDNs**) a numbers that contain all digits (1..9). As the definition may vary, I have chosen numbers that do not contain zero or duplicate digits. All checked numbers contain all 9 digits from 1 to 9, each only once per number.
 
 **Condition to checke the PDNs against:**
-For N going from 1 to 9, if the currently checked PDN, cut at the Nth digit, divides the Nh digit (no remainder), the PDN is considered passed the test.
+For N going from 1 to 9, if the currently checked PDN, cut at the Nth digit, divides the Nth digit (no remainder), the PDN is considered passed the test.
 
 **Example:**
 - 123648759 is divisible by 9 (result: 13738751)
