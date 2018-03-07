@@ -15,7 +15,7 @@ For N going from 1 to 9, if the currently checked PDN, cut at the Nth digit, div
 - 12364875 is divisible by 5 (result: 2472975)
 - 1236487 is divisible by 7 (result: 176641)
 - 123648 is divisible by 8 (result: 15456)
-etc.
+- etc.
 
 **Note:**
 This Numberphile video ["Why 381,654,729 is awesome"](https://www.youtube.com/watch?v=gaVMrqzb91w) is about the PDNs and includes an example of a similar test - whether the PDN, cut at the Nth digit is divisible by N
