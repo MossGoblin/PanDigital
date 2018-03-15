@@ -18,5 +18,5 @@ For N going from 1 to 9, if the currently checked PDN, cut at the Nth digit, div
 - etc.
 
 **Note:**
-This Numberphile video ["Why 381,654,729 is awesome"](https://www.youtube.com/watch?v=gaVMrqzb91w) is about the PDNs and includes an example of a similar test - whether the PDN, cut at the Nth digit is divisible by N
+This Numberphile video ["Why 381,654,729 is awesome"](https://www.youtube.com/watch?v=gaVMrqzb91w) is about the PDNs and includes an example of a similar test - whether the PDN, cut at the Nth digit is divisible by N.
 This program is inspired by the video and I wrote it only for exercise. 
